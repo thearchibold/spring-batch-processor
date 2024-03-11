@@ -1,1 +1,6 @@
 GET localhost:8800/api/trigger
+
+# 1s508ms
+#50 - 1s383ms
+#100 - 1s290ms
+#250 - 1s274ms
